@@ -1,0 +1,6 @@
+D:\RiderProjects\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+D:\RiderProjects\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+D:\RiderProjects\testing\testing\bin\Debug\testing.exe
+D:\RiderProjects\testing\testing\bin\Debug\testing.pdb
+D:\RiderProjects\testing\testing\obj\Debug\testing.exe
+D:\RiderProjects\testing\testing\obj\Debug\testing.pdb
